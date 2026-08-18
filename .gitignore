@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ambientes virtuais
+.venv/
+env/
+
+# Editor / IDE
+.vscode/
+
+# Baselines locais (exceto a pasta data)
+data/*.json
+!data/.gitkeep
